@@ -1,0 +1,56 @@
+body{
+    font-family: "BioRhyme", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "BioRhyme", cursive;
+}
+
+h2{
+    color: #3046c5;
+}
+
+header h2{
+    color: #CEC8FF;
+}
+
+.site-footer {
+    background-color:  rgb(64, 204, 125);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-color: rgb(64, 204, 125);
+    color: white;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar {
+    background-color: grey;
+}
+
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
+}
+
+.border-dark {
+    border-radius: 50px;
+    border-width: 50px;
+}
+
+.carousel-caption{
+    background-color: rgba(0, 0, 0, .5)
+}
+
+.carousel{
+    border: solid #5637DD
+}
